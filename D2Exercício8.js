@@ -3,7 +3,7 @@
 - ímpar, - par, - é um número primo e impar, - é par e divisível por 5.
 */
 
-const number = 241321561615619
+const number = 7
 
 if (number % 2 === 0) {
     if (number % 5 === 0) {
