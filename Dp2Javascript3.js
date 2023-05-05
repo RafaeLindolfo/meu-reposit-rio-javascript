@@ -7,4 +7,4 @@ function time(hours) {
     return
 }
 
-console.log(time())
+time()

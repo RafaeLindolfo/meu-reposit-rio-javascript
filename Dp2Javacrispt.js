@@ -9,4 +9,4 @@ function number(number1) {
 }
 
 
-console.log(number('55'))
+number('55')

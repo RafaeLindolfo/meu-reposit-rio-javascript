@@ -10,4 +10,4 @@
       return
  }
 
-console.log(sum(10))
+ sum(10)
