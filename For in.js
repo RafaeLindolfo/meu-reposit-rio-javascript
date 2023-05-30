@@ -6,7 +6,7 @@ Ele é usado com objetos
 const student = {
     name:'Rafael',
     age: 31,
-    genre: 'nmale',
+    genre: 'male',
 }
 
 for(let property in student){
